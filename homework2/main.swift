@@ -46,3 +46,4 @@ func number(number:String){
 print("Можно ваш номер?")
 let number=readLine()!
 number(number: number)
+//done
